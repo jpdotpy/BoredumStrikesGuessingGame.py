@@ -22,16 +22,20 @@ python boredum_strike_guessing_game.py
 Start guessing! You have 6 attempts to discover the secret number. 🤞
 
 Game Code
-python
+bash
 Copy code
 #Import Random Module
 import random
 
 # Generate a random secret number between 1 and 20
+bash
+Copy code
 secretNumber = random.randint(1, 20)
 print("I'm thinking of a secret number between 1 and 20")
 
 # Ask the player to take a guess 6 times
+bash
+Copy code
 for guessTaken in range(1, 7):
     print('Take a guess')
     guess = int(input())
@@ -44,6 +48,8 @@ for guessTaken in range(1, 7):
         break  # This condition is the correct guess!
 
 # Check if the player guessed correctly
+bash
+Copy code
 if guess == secretNumber:
     print('Good job! You guessed correctly in ' + str(guessTaken) + ' attempts! 🎉')
 else:

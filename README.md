@@ -53,5 +53,7 @@ if guess == secretNumber:
     print('Good job! You guessed correctly in ' + str(guessTaken) + ' attempts! 🎉')
 else:
     print('Nope, good guess though LOLs. The number I was thinking of was ' + str(secretNumber) + ' 😜')
-Have fun playing the BoredumStrikeGuessingGame! May the odds be ever in your favor! 🌟 If you enjoy it, give it a ⭐️! Feel free to contribute and make it even more exciting! 🚀 
+
+
+# Have fun playing the BoredumStrikeGuessingGame! May the odds be ever in your favor! 🌟 If you enjoy it, give it a ⭐️! Feel free to contribute and make it even more exciting! 🚀 
 

@@ -1,7 +1,7 @@
-#BoredumStrikeGuessingGame 🎲
+# BoredumStrikeGuessingGame 🎲
 
-#Welcome to the BoredumStrikeGuessingGame! 
-#🚀 Test your intuition and guess the secret number between 1 and 20. Will you strike it lucky or succumb to boredom? Let's find out! 😎
+# Welcome to the BoredumStrikeGuessingGame! 
+# 🚀 Test your intuition and guess the secret number between 1 and 20. Will you strike it lucky or succumb to boredom? Let's find out! 😎
 
 How to Play
 Clone the repository:

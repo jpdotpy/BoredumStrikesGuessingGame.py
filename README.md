@@ -6,7 +6,7 @@ Welcome to the BoredumStrikeGuessingGame! 🚀 Test your intuition and guess the
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/BoredumStrikeGuessingGame.git
+
 
 # Navigate to the project directory
 cd BoredumStrikeGuessingGame

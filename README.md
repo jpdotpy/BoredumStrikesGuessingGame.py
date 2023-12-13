@@ -1,7 +1,7 @@
-BoredumStrikeGuessingGame 🎲
+#BoredumStrikeGuessingGame 🎲
 
-Welcome to the BoredumStrikeGuessingGame! 
-🚀 Test your intuition and guess the secret number between 1 and 20. Will you strike it lucky or succumb to boredom? Let's find out! 😎
+#Welcome to the BoredumStrikeGuessingGame! 
+#🚀 Test your intuition and guess the secret number between 1 and 20. Will you strike it lucky or succumb to boredom? Let's find out! 😎
 
 How to Play
 Clone the repository:
@@ -24,7 +24,7 @@ Start guessing! You have 6 attempts to discover the secret number. 🤞
 Game Code
 python
 Copy code
-# This is a number guessing game
+#Import Random Module
 import random
 
 # Generate a random secret number between 1 and 20
